@@ -48,66 +48,61 @@ table {
 }
 /* Custom Styles */
 
-
-.passage {
-    text-align: center;
-    display: inline-block;
-    height: 400px auto;
-    width: 300px;
-    vertical-align: middle;
-    margin-top: 30px;
+.container1 {
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 50px;
 }
 img {
-    width: 300;
-    height: 250px;
-    vertical-align: middle;
-    margin-top: 30px;
+    width: 450px;
 }
-.p2 {
-    width: 400px;
-    height: 250px;
+.passage1 {
+    width: 450px;
+    margin-left: 15px;
+    margin-top: 10px;
     display: inline-block;
-    margin-top: 30px;
-    margin-left: 30px;
-    vertical-align: middle;
+    vertical-align: top;
 }
-.p1 {
-    text-align: center;
+.container2 {
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 50px;
 }
-.p3 {
-    width: 500px;
-    height: 300px;
+.passage2 {
+    width: 450px;
+}
+.passage3 {
+    width: 450px;
+    margin-left: 15px;
+}
+.child1 {
+    width: 450px;
     display: inline-block;
-    margin-top: 80px;
-    margin-left: 100px;
-    vertical-align: middle;
+    vertical-align: top;
+}
+.child2 {
+    width: 450px;
+    margin-left: 20px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+h1 {
+    font-size: 34px;
+    margin-top: 10px;
+}
+p {
+    font-size: 18px;
+    margin-top: 10px;
 }
 .link {
-    text-align: center;
     background-color: blue;
-    padding: 10px;
+    text-align: center;
+    padding: 20px;
+    font-size: 25px;
 }
 a {
-    font-size: 20px;
     color: green;
     margin-left: 16px;
     margin-right: 16px;
-    padding: 20px;
-}
-h1 {
-    font-size: 36px;
-    padding: 15px;
-    margin-left: 10px;
-}
-p {
-    margin-top: 10px;
-    margin-left: 40px;
-}
-h2 {
-    font-size: 36px;
-    padding: 15px;
-    margin-left: 40px;
-}
-.main {
-    text-align: center;
 }
